@@ -12,6 +12,11 @@
 - ⚡ Fun fact: I love to paraglide, climb, skydive and base-jump
 
 
+[![Spring Security Master Class Video](https://img.youtube.com/vi/IgKDKUPfR1A/maxresdefault.jpg)](http://www.youtube.com/watch?v=IgKDKUPfR1A "Official Release: Spring Security Master Class")
+
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="baselogic.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -93,7 +98,7 @@
 [course]: https://www.udemy.com/course/spring_security_master_class/
 [twitter]: https://twitter.com/baselogic
 [youtube]: https://www.youtube.com/c/BASELogic
-[linkedin]: https://www.linkedin.com/company/base-logic-inc-/
+[linkedin]: https://www.linkedin.com/company/baselogic-io/
 
 [udemyplaylist]: https://www.youtube.com/watch?v=hKUl8Aajwpk&list=PLiXmt3FGN7oTXbZEynUJsz03MKupCN_9W
 [springbootplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
