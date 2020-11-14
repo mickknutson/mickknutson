@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning anything and everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: FInish hiking the Continental Divide Trail (CDT)
-- ⚡ Fun fact: I love to paraglide, climb and base-jump
+- ⚡ Fun fact: I love to paraglide, climb, skydive and base-jump
 
 
 ### Connect with me:
