@@ -37,8 +37,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TBD](https://www.youtube.com/watch?v=TBD)
-
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/baselogic)
@@ -48,7 +46,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TBD](https://baselogic.com)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://baselogic.com)
@@ -59,7 +56,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/baselogic/baselogic/pull/14) in [baselogic/baselogic](https://github.com/baselogic/baselogic)
 <!--END_SECTION:activity-->
 
 </details>
@@ -76,6 +72,7 @@
 [twitter]: https://twitter.com/baselogic
 [youtube]: https://www.youtube.com/c/BASELogic
 [linkedin]: https://linkedin.com/in/baselogic
+
 [udemyplaylist]: https://www.youtube.com/watch?v=hKUl8Aajwpk&list=PLiXmt3FGN7oTXbZEynUJsz03MKupCN_9W
 [springbootplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
 
