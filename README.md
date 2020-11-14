@@ -26,7 +26,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Spring Framework" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][springbootplaylist]
+[<img align="left" alt="Spring Framework" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][springbootplaylist]
+
+[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][javaplaylist]
+
+[<img align="left" alt="Gradle" width="40px" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" />][gradleplaylist]
+
+[<img align="left" alt="Maven" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />][mavenplaylist]
+
+[<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][dockerplaylist]
+
+
+
 
 
 <br />
@@ -72,10 +83,14 @@
 [course]: https://www.udemy.com/course/spring_security_master_class/
 [twitter]: https://twitter.com/baselogic
 [youtube]: https://www.youtube.com/c/BASELogic
-[linkedin]: https://linkedin.com/in/baselogic
+[linkedin]: https://www.linkedin.com/company/base-logic-inc-/
 
 [udemyplaylist]: https://www.youtube.com/watch?v=hKUl8Aajwpk&list=PLiXmt3FGN7oTXbZEynUJsz03MKupCN_9W
 [springbootplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
+[javaplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
+[gradleplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
+[mavenplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
+[dockerplaylist]: https://www.youtube.com/watch?v=IgKDKUPfR1A&list=PLiXmt3FGN7oRcSbjudV-Ny09uNn00j1CJ
 
 
 
