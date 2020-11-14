@@ -51,6 +51,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wintellect Presents: Accessing Distributed Spring Cloud Configuration Properties with jQuery with Mick Knutson](https://www.baselogic.com/2018/01/10/wintellect-presents-accessing-distributed-spring-cloud-configuration-properties-jquery-mick-knutson/)
+- [Java 9 error starting eclipse Neon 3](https://www.baselogic.com/2017/09/18/java-9-error-starting-eclipse-neon-3/)
+- [Spring Boot CORS Cross domain requests with jQuery using BASIC Authentication](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-using-basic-authentication/)
+- [Spring Boot CORS Cross domain requests with jQuery JavaScript](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-javascript/)
+- [Udemy Course: Distributed configuration with Spring Cloud Config](https://www.baselogic.com/2017/08/30/udemy-course-distributed-configuration-spring-cloud-config/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://baselogic.com)
