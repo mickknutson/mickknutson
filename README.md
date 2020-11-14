@@ -63,9 +63,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="baselogic's GitHub Stats" src="https://github-readme-stats.baselogic.vercel.app/api?username=baselogic&show_icons=true&hide_border=true" />
+  <img align="left" alt="baselogic's GitHub Stats" src="https://github-readme-stats.baselogic.vercel.app/api?username=mickknutson&show_icons=true&theme=blue-green" />
 
 </details>
+
 
 [website]: https://baselogic.com
 [course]: https://www.udemy.com/course/spring_security_master_class/
