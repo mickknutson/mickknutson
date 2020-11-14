@@ -37,6 +37,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Official Release: Spring Security Master Class](https://www.youtube.com/watch?v=IgKDKUPfR1A)
+- [Spring Security Master Class Section 4 Introduction](https://www.youtube.com/watch?v=1EAuxXxchJM)
+- [Customizing behavior after login](https://www.youtube.com/watch?v=Q0PR4TUbIvI)
+- [Introduction to the Spring Security Master Class Course.](https://www.youtube.com/watch?v=Fp4ZSAZoA7c)
+- [Suppressing missing @Autowired Spring Beans in IntelliJ](https://www.youtube.com/watch?v=jVbAcO4ZqFs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/baselogic)
