@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wintellect Presents: Accessing Distributed Spring Cloud Configuration Properties with jQuery with Mick Knutson](https://www.baselogic.com/2018/01/10/wintellect-presents-accessing-distributed-spring-cloud-configuration-properties-jquery-mick-knutson/)
-- [Java 9 error starting eclipse Neon 3](https://www.baselogic.com/2017/09/18/java-9-error-starting-eclipse-neon-3/)
-- [Spring Boot CORS Cross domain requests with jQuery using BASIC Authentication](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-using-basic-authentication/)
-- [Spring Boot CORS Cross domain requests with jQuery JavaScript](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-javascript/)
-- [Udemy Course: Distributed configuration with Spring Cloud Config](https://www.baselogic.com/2017/08/30/udemy-course-distributed-configuration-spring-cloud-config/)
+- [Customizing behavior after login](https://www.baselogic.com/2020/11/14/customizing-behavior-after-login-2/)
+- [Missing ReactiveWebApplicationContext Spring Boot Bean](https://www.baselogic.com/2020/11/14/missing-reactivewebapplicationcontext-spring-boot-bean/)
+- [Day-9 of recording Java EE 7 video course Live Stream](https://www.baselogic.com/2020/11/14/day-9-of-recording-java-ee-7-video-course-live-stream-3/)
+- [Servlet Filters (funny)](https://www.baselogic.com/2020/11/14/servlet-filters-funny/)
+- [Udemy demo test 5](https://www.baselogic.com/2020/11/14/udemy-demo-test-5-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://baselogic.com)
@@ -82,6 +82,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/mickknutson/spring_security_course/issues/1) in [mickknutson/spring_security_course](https://github.com/mickknutson/spring_security_course)
 <!--END_SECTION:activity-->
 
 </details>
