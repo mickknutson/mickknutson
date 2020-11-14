@@ -77,6 +77,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/mickknutson/spring_security_course/issues/1) in [mickknutson/spring_security_course](https://github.com/mickknutson/spring_security_course)
 <!--END_SECTION:activity-->
 
 </details>
