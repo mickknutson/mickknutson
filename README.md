@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Official Release: Spring Security Master Class](https://www.youtube.com/watch?v=IgKDKUPfR1A)
+- [Spring Security Master Class Section 4 Introduction](https://www.youtube.com/watch?v=1EAuxXxchJM)
+- [Customizing behavior after login](https://www.youtube.com/watch?v=Q0PR4TUbIvI)
+- [Introduction to the Spring Security Master Class Course.](https://www.youtube.com/watch?v=Fp4ZSAZoA7c)
+- [Suppressing missing @Autowired Spring Beans in IntelliJ](https://www.youtube.com/watch?v=jVbAcO4ZqFs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/baselogic)
@@ -57,6 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wintellect Presents: Accessing Distributed Spring Cloud Configuration Properties with jQuery with Mick Knutson](https://www.baselogic.com/2018/01/10/wintellect-presents-accessing-distributed-spring-cloud-configuration-properties-jquery-mick-knutson/)
+- [Java 9 error starting eclipse Neon 3](https://www.baselogic.com/2017/09/18/java-9-error-starting-eclipse-neon-3/)
+- [Spring Boot CORS Cross domain requests with jQuery using BASIC Authentication](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-using-basic-authentication/)
+- [Spring Boot CORS Cross domain requests with jQuery JavaScript](https://www.baselogic.com/2017/09/18/spring-boot-cors-cross-domain-requests-jquery-javascript/)
+- [Udemy Course: Distributed configuration with Spring Cloud Config](https://www.baselogic.com/2017/08/30/udemy-course-distributed-configuration-spring-cloud-config/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://baselogic.com)
