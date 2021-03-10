@@ -82,7 +82,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/mickknutson/spring_security_course/issues/3) in [mickknutson/spring_security_course](https://github.com/mickknutson/spring_security_course)
+1. ❗️ Opened issue [#1](https://github.com/mickknutson/mickknutson/issues/1) in [mickknutson/mickknutson](https://github.com/mickknutson/mickknutson)
 <!--END_SECTION:activity-->
 
 </details>
