@@ -82,7 +82,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mickknutson/jte-the-basics-app-maven/pull/1) in [mickknutson/jte-the-basics-app-maven](https://github.com/mickknutson/jte-the-basics-app-maven)
+1. ❗️ Opened issue [#603](https://github.com/paulcwarren/spring-content/issues/603) in [paulcwarren/spring-content](https://github.com/paulcwarren/spring-content)
 <!--END_SECTION:activity-->
 
 </details>
