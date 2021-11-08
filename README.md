@@ -70,7 +70,7 @@
 - [Customizing behavior after login](https://www.baselogic.com/2020/11/14/customizing-behavior-after-login-2/)
 - [Missing ReactiveWebApplicationContext Spring Boot Bean](https://www.baselogic.com/2020/11/14/missing-reactivewebapplicationcontext-spring-boot-bean/)
 - [Day-9 of recording Java EE 7 video course Live Stream](https://www.baselogic.com/2020/11/14/day-9-of-recording-java-ee-7-video-course-live-stream-3/)
-- [Servlet Filters (funny)](https://www.baselogic.com/2020/11/14/servlet-filters-funny/)
+- [Servlet Filters &lpar;funny&rpar;](https://www.baselogic.com/2020/11/14/servlet-filters-funny/)
 - [Udemy demo test 5](https://www.baselogic.com/2020/11/14/udemy-demo-test-5-2/)
 <!-- BLOG-POST-LIST:END -->
 
